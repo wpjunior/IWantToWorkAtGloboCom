@@ -170,4 +170,5 @@ Requisito:
 * Ter conhecimento de semantica e ontologia
 
 Diferenciais:
+
 * Conhecimento em banco de dados de documentos e triplas
