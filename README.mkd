@@ -150,6 +150,7 @@ Requisitos Comuns:
 * Ser apaixonado por desenvolvimento e tecnologia;
 * Ter conhecimento em desenvolvimento WEB (CSS, Javascript, Ajax);
 * Ter facilidade de trabalhar em equipe;
+* Ter conhecimento em Python e Django;
 
 Diferenciais:
 
@@ -160,11 +161,13 @@ Equipe: Plataforma de Publicação
 
 Requisito:
 
-* Ter conhecimento em Python e Django;
+* Conhecimento avançado em Python e Django;
 
 Equipe: Plataforma de Busca e Semantica
 
 Requisito: 
 
 * Ter conhecimento de semantica e ontologia
-* Ter conhecimento em Java;
+
+Diferenciais:
+* Conhecimento em banco de dados de documentos e triplas
