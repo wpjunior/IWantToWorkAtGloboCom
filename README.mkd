@@ -112,7 +112,7 @@ Caso não haja nenhuma vaga disponível abaixo, não quer dizer que não estamos
 contratando! Faça o fork do projeto e mande no lugar da vaga "Nenhuma vaga
 disponível".
 
-Equipe Home Globo.com - Desenvolvedor Sênior (1 Vaga)
+Equipe Home Globo.com - Desenvolvedor (1 Vaga)
 -----------------------------------------------------
 
 Você quer trabalhar na [porta de entrada da globo.com](http://globo.com)? Evoluir a aplicação que
