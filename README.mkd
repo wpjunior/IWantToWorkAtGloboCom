@@ -142,13 +142,13 @@ aprender e ensinar muito.
 Aqui trabalhamos principalmente com Python/Django e JavaScript, portanto conhecer
 bem pelo menos uma dessas linguagens, além de práticas como TDD/BDD/*DD, é fundamental.
 Levamos a qualidade do nosso trabalho muito a sério, então 
-[não quebre o build](http://www.youbrokethebuild.com/images/Row2_2a.jpg)*!
+[não quebre o build](http://www.youbrokethebuild.com/images/Row2_2a.jpg)\*!
 
 Conhecimentos de HTML são um plus (não estou falando de
 saber sintaxe de HTML e sim de saber cross-browsing, hacks, posicionamento,
 grids, etc).
 
-* entenda a piada do não quebre o build [aqui](http://www.youbrokethebuild.com/)
+\* entenda a piada do não quebre o build [aqui](http://www.youbrokethebuild.com/)
 
 Área de Publicação de Conteúdo e Vendas (2 Vagas)
 ------------------------------
