@@ -131,7 +131,7 @@ VERY BIG EXTRA POINTS para quem souber bem HTML e CSS (não estou falando de
 saber sintaxe de HTML e sim de saber cross-browsing, hacks, posicionamento,
 grids, etc).
 
-Equipe de Jornalismo - Desenvolvedor Pleno - Portal G1 (1 Vaga)
+Equipe de Jornalismo - Desenvolvedor - Portal G1 (1 Vaga)
 --------------------------------------------------
 
 Venha trabalhar no time responsável pelo [G1](http://g1.globo.com), o maior site brasileiro
