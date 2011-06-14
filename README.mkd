@@ -112,25 +112,6 @@ Caso não haja nenhuma vaga disponível abaixo, não quer dizer que não estamos
 contratando! Faça o fork do projeto e mande no lugar da vaga "Nenhuma vaga
 disponível".
 
-Equipe Home Globo.com - Desenvolvedor (1 Vaga)
------------------------------------------------------
-
-Você quer trabalhar na [porta de entrada da globo.com](http://globo.com)? Evoluir a aplicação que
-muda a vida de mais de 10 milhões de brasileiros todo dia? Essa é a sua vaga!
-
-Para trabalhar na nossa equipe você precisa se sentir confortável em
-experimentar novas linguagens de programação e saber pelo menos duas das abaixo
-bem:
-
-* Javascript
-* Python
-* Ruby
-* Node.js
-
-VERY BIG EXTRA POINTS para quem souber bem HTML e CSS (não estou falando de
-saber sintaxe de HTML e sim de saber cross-browsing, hacks, posicionamento,
-grids, etc).
-
 Equipe de Jornalismo - Desenvolvedor - Portal G1 (1 Vaga)
 --------------------------------------------------
 
