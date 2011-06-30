@@ -131,7 +131,7 @@ grids, etc).
 
 \* entenda a piada do não quebre o build [aqui](http://www.youbrokethebuild.com/)
 
-Área de Publicação de Conteúdo e Vendas (2 Vagas)
+Área de Publicação de Conteúdo e Vendas (1 Vaga)
 ------------------------------
 
 Requisitos Comuns: 
@@ -151,13 +151,3 @@ Equipe: Plataforma de Publicação
 Requisito:
 
 * Conhecimento avançado em Python e Django;
-
-Equipe: Plataforma de Busca e Semantica
-
-Requisito: 
-
-* Ter conhecimento de semantica e ontologia
-
-Diferenciais:
-
-* Conhecimento em banco de dados de documentos e triplas
