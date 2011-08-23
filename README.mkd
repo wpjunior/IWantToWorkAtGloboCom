@@ -112,23 +112,3 @@ Caso não haja nenhuma vaga disponível abaixo, não quer dizer que não estamos
 contratando! Faça o fork do projeto e mande no lugar da vaga "Nenhuma vaga
 disponível".
 
-Área de Publicação de Conteúdo e Vendas (1 Vaga)
-------------------------------
-
-Requisitos Comuns: 
-
-* Ser apaixonado por desenvolvimento e tecnologia;
-* Ter conhecimento em desenvolvimento WEB (CSS, Javascript, Ajax);
-* Ter facilidade de trabalhar em equipe;
-* Ter conhecimento em Python e Django;
-
-Diferenciais:
-
-* Experiência em projetos de software livre;
-* Experência com testes e metodologias ágeis.
-
-Equipe: Plataforma de Publicação
-
-Requisito:
-
-* Conhecimento avançado em Python e Django;
