@@ -108,7 +108,32 @@ Oferecemos salário de mercado! Além disso, também temos os seguintes benefíc
 Vagas Disponíveis
 =================
 
-Caso não haja nenhuma vaga disponível abaixo, não quer dizer que não estamos
-contratando! Faça o fork do projeto e mande no lugar da vaga "Nenhuma vaga
-disponível".
+Estamos sempre em busca de talentos! Mesmo que não haja vaga disponível abaixo, 
+faça o fork do projeto e mande no lugar da vaga "Nenhuma vaga disponível".
 
+Área de Entretenimento (1 Vaga)
+-------------------------------
+
+Na área de Entrenimento são feitos os produtos ligados diretamente aos programas da TV Globo:
+novelas, programas de variedades (Caldeirão, Faustão, Videoshow, etc) e reality shows.
+
+Aqui, todo ano, fazemos o maior site da internet brasileira em audiência: o site do BBB. Quer mais? :)
+
+**Must Have:** 
+Ser apaixonado por desenvolvimento e tecnologia; 
+Ter facilidade de trabalhar dentro de times multi-disciplinares;
+Escrever código limpo e legível para pessoas;
+Ter conhecimentos em design e arquitetura de software;
+Experiência com Python e Django;
+Experiência com desenvolvimento WEB (HTML, CSS, Javascript, jQuery, etc);
+
+**Should Have:**
+Experência com práticas de XP (TDD, pair programming, refactoring, continuous integration, etc);
+Experiência com testes unitários, de aceitação, mocks, Selenium, etc;
+Conhecimento de técnicas cross-browser, SEO, HTML5 e CSS3;
+
+**Nice to Have:**
+Experiência com metodologias ágeis, como Scrum;
+Experiência com infra-estrutura de aplicações web de alta escala;
+Conhecimento de automação de deploy com Puppet, Chef, etc;
+Ser poliglota em linguagens de programação e linguagens naturais;
