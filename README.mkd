@@ -119,17 +119,6 @@ novelas, programas de variedades (Caldeirão, Faustão, Videoshow, etc) e realit
 
 Aqui, todo ano, fazemos o maior site da internet brasileira em audiência: o site do BBB. Quer mais? :)
 
-Área de Social (2 Vagas)
--------------------------------
-Somos responsáveis pelas principais interações dos usuários com a Globo.com, criando sistemas (plataforma) de comentários, cadastro, participações em programas/concursos, recebimento de colaborações e também do **relacionamento** com as principais redes sociais do mercado.
-
-Procuramos desenvolvedores apaixonados pela sua profissão, que estejam sempre atrás de novos conhecimentos e gostem de se envolver em projetos desafiadores. O profissional deve ter pelo menos 2 anos de experiencia com programação para web.
-
-- Experiencia em Python e Django / Ruby on Rails;
-- Experiencia com desenvolvimento web (HTML, CSS, JavaScript);
-- Experiência com práticas de engenharia de software, tais como testes unitários, TTD, pair programming, refactoring;
-- Inglês técnico
-
 **Must Have:**
 Ser apaixonado por desenvolvimento e tecnologia;
 Ter facilidade de trabalhar dentro de times multi-disciplinares;
@@ -148,3 +137,14 @@ Experiência com metodologias ágeis, como Scrum;
 Experiência com infra-estrutura de aplicações web de alta escala;
 Conhecimento de automação de deploy com Puppet, Chef, etc;
 Ser poliglota em linguagens de programação e linguagens naturais;
+
+Área de Social (2 Vagas)
+-------------------------------
+Somos responsáveis pelas principais interações dos usuários com a Globo.com, criando sistemas (plataforma) de comentários, cadastro, participações em programas/concursos, recebimento de colaborações e também do **relacionamento** com as principais redes sociais do mercado.
+
+Procuramos desenvolvedores apaixonados pela sua profissão, que estejam sempre atrás de novos conhecimentos e gostem de se envolver em projetos desafiadores. O profissional deve ter pelo menos 2 anos de experiencia com programação para web.
+
+- Experiencia em Python e Django / Ruby on Rails;
+- Experiencia com desenvolvimento web (HTML, CSS, JavaScript);
+- Experiência com práticas de engenharia de software, tais como testes unitários, TTD, pair programming, refactoring;
+- Inglês técnico
