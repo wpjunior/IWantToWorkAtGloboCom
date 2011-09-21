@@ -80,8 +80,8 @@ currículo. Sinta-se a vontade para incluir QUALQUER coisa que você acredite qu
 vá ser bom pra sua imagem perante quem estará recebendo esses dados (twitter,
 facebook, sites online, outros trabalhos, etc).
 
-Só para lembrar: Estes dados que você está colocando ficarão visíveis para todo mundo, 
-logo se você não quiser colocar dados sensitive como telefone, e-mail, etc, basta enviar 
+Só para lembrar: Estes dados que você está colocando ficarão visíveis para todo mundo,
+logo se você não quiser colocar dados sensitive como telefone, e-mail, etc, basta enviar
 por mensagem direta.
 
 Gostaríamos de lembrar que se você quer trabalhar na área de desenvolvimento
@@ -108,7 +108,7 @@ Oferecemos salário de mercado! Além disso, também temos os seguintes benefíc
 Vagas Disponíveis
 =================
 
-Estamos sempre em busca de talentos! Mesmo que não haja vaga disponível abaixo, 
+Estamos sempre em busca de talentos! Mesmo que não haja vaga disponível abaixo,
 faça o fork do projeto e mande no lugar da vaga "Nenhuma vaga disponível".
 
 Área de Entretenimento (1 Vaga)
@@ -119,7 +119,7 @@ novelas, programas de variedades (Caldeirão, Faustão, Videoshow, etc) e realit
 
 Aqui, todo ano, fazemos o maior site da internet brasileira em audiência: o site do BBB. Quer mais? :)
 
-Área de Social (2 Vaga)
+Área de Social (2 Vagas)
 -------------------------------
 Somos responsáveis pelas principais interações dos usuários com a Globo.com, criando sistemas (plataforma) de comentários, cadastro, participações em programas/concursos, recebimento de colaborações e também do **relacionamento** com as principais redes sociais do mercado.
 
@@ -130,8 +130,8 @@ Procuramos desenvolvedores apaixonados pela sua profissão, que estejam sempre a
 - Experiência com práticas de engenharia de software, tais como testes unitários, TTD, pair programming, refactoring;
 - Inglês técnico
 
-**Must Have:** 
-Ser apaixonado por desenvolvimento e tecnologia; 
+**Must Have:**
+Ser apaixonado por desenvolvimento e tecnologia;
 Ter facilidade de trabalhar dentro de times multi-disciplinares;
 Escrever código limpo e legível para pessoas;
 Ter conhecimentos em design e arquitetura de software;
