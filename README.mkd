@@ -146,5 +146,5 @@ Procuramos desenvolvedores apaixonados pela sua profissão, que estejam sempre a
 
 - Experiencia em Python e Django / Ruby on Rails;
 - Experiencia com desenvolvimento web (HTML, CSS, JavaScript);
-- Experiência com práticas de engenharia de software, tais como testes unitários, TTD, pair programming, refactoring;
+- Experiência com práticas de engenharia de software, tais como testes unitários, TDD, pair programming, refactoring;
 - Inglês técnico
