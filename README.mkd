@@ -138,6 +138,57 @@ Experiência com infra-estrutura de aplicações web de alta escala;
 Conhecimento de automação de deploy com Puppet, Chef, etc;
 Ser poliglota em linguagens de programação e linguagens naturais;
 
+Área de Jornalismo (1 Vaga)
+-------------------------------
+
+Você quer ajudar a construir o maior portal de notícias do país? Venha participar da equipe que faz o G1 e ajude a informar melhor 10 milhões de brasileiros todo dia.
+
+**Must Have:**
+Ser apaixonado por desenvolvimento e tecnologia;
+Ter facilidade de trabalhar dentro de times multi-disciplinares;
+Escrever código limpo e legível para pessoas;
+Ter conhecimentos em design e arquitetura de software;
+Experiência com Python e Django;
+Experiência com desenvolvimento WEB (HTML, CSS, Javascript, jQuery, etc);
+
+**Should Have:**
+Experência com práticas de XP (TDD, pair programming, refactoring, continuous integration, etc);
+Experiência com testes unitários, de aceitação, mocks, Selenium, etc;
+Conhecimento de técnicas cross-browser, SEO, HTML5 e CSS3;
+
+**Nice to Have:**
+Experiência com metodologias ágeis, como Scrum;
+Experiência com infra-estrutura de aplicações web de alta escala;
+Conhecimento de automação de deploy com Puppet, Chef, etc;
+Ser poliglota em linguagens de programação e linguagens naturais;
+
+Área de Esportes (1 Vaga)
+-------------------------------
+
+Você é apaixonado por esportes como nós? Então venha se divertir trabalhando no maior portal de esportes do Brasil. 
+Venha ajudar a fazer a cobertura dos principais eventos esportivos do Brasil e do Mundo. 
+Construimos os produtos de esporte de maior sucesso da internet como Globoesporte.com, Cartola FC, Futpédia e SporTV.
+
+**Must Have:**
+Ser apaixonado por desenvolvimento e tecnologia;
+Ter facilidade de trabalhar dentro de times multi-disciplinares;
+Escrever código limpo e legível para pessoas;
+Ter conhecimentos em design e arquitetura de software;
+Experiência com Python e Django;
+Experiência com desenvolvimento WEB (HTML, CSS, Javascript, jQuery, etc);
+
+**Should Have:**
+Experência com práticas de XP (TDD, pair programming, refactoring, continuous integration, etc);
+Experiência com testes unitários, de aceitação, mocks, Selenium, etc;
+Conhecimento de técnicas cross-browser, SEO, HTML5 e CSS3;
+
+**Nice to Have:**
+Experiência com metodologias ágeis, como Scrum;
+Experiência com infra-estrutura de aplicações web de alta escala;
+Conhecimento de automação de deploy com Puppet, Chef, etc;
+Ser poliglota em linguagens de programação e linguagens naturais;
+
+
 Área de Social (2 Vagas)
 -------------------------------
 Somos responsáveis pelas principais interações dos usuários com a Globo.com, criando sistemas (plataforma) de comentários, cadastro, participações em programas/concursos, recebimento de colaborações e também do **relacionamento** com as principais redes sociais do mercado.
