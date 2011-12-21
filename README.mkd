@@ -24,7 +24,7 @@ Além disso são cerca de 10 milhões de visitantes únicos (e aumentando todo
 dia).
 
 Logo, **um dos motivos de você querer trabalhar na globo.com é ser parte
-integrante da vida diária de 10 milhões de brasileiros**.
+integrante da vida diária de mais de 10 milhões de brasileiros**.
 
 Líder no segmento de desenvolvimento ágil para a Web
 ====================================================
@@ -199,3 +199,17 @@ Procuramos desenvolvedores apaixonados pela sua profissão, que estejam sempre a
 - Experiencia com desenvolvimento web (HTML, CSS, JavaScript);
 - Experiência com práticas de engenharia de software, tais como testes unitários, TDD, pair programming, refactoring;
 - Inglês técnico
+
+
+Área Mobile (1 vaga)
+------------------------------
+O time Mobile tem como objetivo a criação de aplicativos para smartphones e tablets. Nosso time tem como missão explorar as principais plataformas móveis, buscando inovações tecnológicas, funcionais e de experiência do usuário. O escopo tecnológico que trabalhamos pode variar entre apps nativos para as plataformas iOS e/ou Android; web apps, envolvendo HTML 5, CSS e Javascript, bem como sistemas de backend para suportar nossos apps, usando Ruby, Python ou qualquer outra tecnologia que o time considere mais adequada. No momento, o nosso foco são apps nativas para o iPad e iPhone. 
+
+**Must Have:**
+Ser apaixonado por desenvolvimento e tecnologia e um entusiasta do universo mobile; Ser um team-player, ou seja, trabalho em equipe acima de tudo; Ser flexível, comprometido com resultados e pró-ativo, para descobrir e resolver problemas em todos os aspectos relacionados ao ciclo de valor do produto. Deve procurar de forma permanente o auto-desenvolvimento. Escrever código limpo, legível, tendo como meta um código de boa manutenabilidade. Deve ter conhecimento em OO, design e arquitetura de software, e experiência com desenvolvimento Web (HTML, CSS, Javascript, JQuery, etc.). Fluência em pelo menos duas linguagens de programação.
+
+**Should Have:**
+Experiência com Ruby e Rails, ou Python e Django. Experiência com práticas de XP (TDD, pair programming, refactoring, continuous integration, etc); Experiência com testes automatizados: unitários, de aceitação, mocks, Selenium, etc;
+
+**Nice to have:**
+Experiência com Objective-C, C++ ou C#. Conhecimento de técnicas cross-browser, SEO, HTML5 e CSS3; Experiência com metodologias ágeis, como Scrum; Experiência com infra-estrutura de aplicações web de alta escala; Conhecimento de automação de deploy com Puppet, Chef, etc; Ser poliglota em linguagens de programação e linguagens naturais;
