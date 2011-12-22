@@ -203,13 +203,27 @@ Procuramos desenvolvedores apaixonados pela sua profissão, que estejam sempre a
 
 Área Mobile (1 vaga)
 ------------------------------
-O time Mobile tem como objetivo a criação de aplicativos para smartphones e tablets. Nosso time tem como missão explorar as principais plataformas móveis, buscando inovações tecnológicas, funcionais e de experiência do usuário. O escopo tecnológico que trabalhamos pode variar entre apps nativos para as plataformas iOS e/ou Android; web apps, envolvendo HTML 5, CSS e Javascript, bem como sistemas de backend para suportar nossos apps, usando Ruby, Python ou qualquer outra tecnologia que o time considere mais adequada. No momento, o nosso foco são apps nativas para o iPad e iPhone. 
+O time Mobile tem como objetivo a criação de aplicativos para smartphones e tablets. Nosso time tem como missão explorar a plataforma móvel, buscando inovações tecnológicas, funcionais e de experiência do usuário. Nosso escopo de atuação envolve apenas as aplicações mais estratégicas e não inclui os sites mobile dos portais Globo.com. O escopo tecnológico que trabalhamos pode variar entre apps nativos para as plataformas iOS e Android; web apps, envolvendo HTML 5, CSS e Javascript; e sistemas backend para suportar nossos apps, usando Ruby, Python ou qualquer outra tecnologia que o time considere mais adequada. No momento, o nosso foco são apps nativas para o iPad e Android, mas iremos trabalhar com web apps a partir do 2o semestre de 2012.
 
 **Must Have:**
-Ser apaixonado por desenvolvimento e tecnologia e um entusiasta do universo mobile; Ser um team-player, ou seja, trabalho em equipe acima de tudo; Ser flexível, comprometido com resultados e pró-ativo, para descobrir e resolver problemas em todos os aspectos relacionados ao ciclo de valor do produto. Deve procurar de forma permanente o auto-desenvolvimento. Escrever código limpo, legível, tendo como meta um código de boa manutenabilidade. Deve ter conhecimento em OO, design e arquitetura de software, e experiência com desenvolvimento Web (HTML, CSS, Javascript, JQuery, etc.). Fluência em pelo menos duas linguagens de programação.
+Ser apaixonado por desenvolvimento e tecnologia e um entusiasta do universo mobile;
+Deve trabalhar bem em equipe, buscando os objetivos do time acima de tudo. 
+Ser flexível, comprometido com resultados e proativo, para descobrir e resolver problemas em todos os aspectos relacionados ao ciclo de valor do produto. 
+Deve procurar de forma permanente o autodesenvolvimento. 
+Escrever código limpo, legível, tendo como meta um código de boa manutenabilidade. 
+Deve ter conhecimento em OO, design e arquitetura de software, e experiência com desenvolvimento Web (HTML, CSS, Javascript, JQuery, etc.). 
+Fluência em pelo menos duas linguagens de programação. 
+Ter experiência com desenvolvimento de software, tendo participado de projetos/produtos diversos em todas as etapas do processo de desenvolvimento.
 
 **Should Have:**
-Experiência com Ruby e Rails, ou Python e Django. Experiência com práticas de XP (TDD, pair programming, refactoring, continuous integration, etc); Experiência com testes automatizados: unitários, de aceitação, mocks, Selenium, etc;
+Experiência com Ruby e Rails, ou Python e Django. 
+Experiência com práticas de XP (TDD, pair programming, refactoring, continuous integration, etc); 
+Experiência com testes automatizados: unitários, de aceitação, mocks, Selenium, etc;
 
 **Nice to have:**
-Experiência com Objective-C, C++ ou C#. Conhecimento de técnicas cross-browser, SEO, HTML5 e CSS3; Experiência com metodologias ágeis, como Scrum; Experiência com infra-estrutura de aplicações web de alta escala; Conhecimento de automação de deploy com Puppet, Chef, etc; Ser poliglota em linguagens de programação e linguagens naturais;
+Experiência com Objective-C, C++ ou C#. 
+Conhecimento de técnicas cross-browser, SEO, HTML5 e CSS3; 
+Experiência com metodologias ágeis, como Scrum; 
+Experiência com infra-estrutura de aplicações web de alta escala; 
+Conhecimento de automação de deploy com Puppet, Chef, etc; 
+Ser poliglota em linguagens de programação e linguagens naturais;
