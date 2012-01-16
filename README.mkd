@@ -213,17 +213,18 @@ Somos os responsáveis pela criação de aplicativos estratégicos para smartpho
 - Escrever código limpo, legível, tendo como meta um código de boa manutenabilidade;
 - Ter sólidos conhecimentos em OO, design e arquitetura de software;
 - Fluência em pelo menos duas linguagens de programação;
-- Ter pelo menos 2 anos de experiência com desenvolvimento Web (HTML, CSS, Javascript, JQuery, etc.), tendo participado de projetos/produtos diversos em todas as etapas do processo de desenvolvimento;
+- Ter pelo menos 2 anos de experiência com desenvolvimento Web, tendo participado de projetos/produtos diversos em todas as etapas do processo de desenvolvimento;
 
 **Should Have:**
 
 - Experiência com Ruby e Rails, ou Python e Django;
+- Experiência com front-end web: HTML, CSS, Javascript, JQuery, etc.
 - Experiência com práticas de XP (TDD, pair programming, refactoring, continuous integration, etc); 
 - Experiência com testes automatizados: unitários, de aceitação, mocks, Selenium, etc;
 
 **Nice to have:**
 
 - Experiência com Objective-C, C++, C# ou C;
-- Conhecimento de técnicas cross-browser, SEO, HTML5 e CSS3; 
+- Conhecimento de técnicas cross-browser, HTML5, CSS3 e SEO; 
 - Experiência com metodologias ágeis, como Scrum; 
 - Experiência com infra-estrutura de aplicações web de alta escala; 
