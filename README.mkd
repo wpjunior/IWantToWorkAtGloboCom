@@ -111,6 +111,20 @@ Vagas Disponíveis
 Estamos sempre em busca de talentos! Mesmo que não haja vaga disponível abaixo,
 faça o fork do projeto e mande no lugar da vaga "Nenhuma vaga disponível".
 
+Home da Globo.com
+-----------------
+
+Venha trabalhar na página de maior acesso do Brasil. Muitos desafios o esperam.
+
+Procuramos desenvolvedores com skillset forte em:
+
+* Desenvolvimento em geral (Algoritmos, Compiladores, etc.);
+* Linguagens de Programação (Javascript é obrigatório e pelo menos mais uma com nível de proficiência alto);
+* HTML e CSS (Cross-browser, Tableless, etc);
+* Paixão por desenvolver o melhor produto que puder com a melhor arquitetura e o melhor código.
+
+Se você se encaixa neste perfil, por favor forke este repositório e adicione seu CV.
+
 Área de Entretenimento (1 Vaga)
 -------------------------------
 
