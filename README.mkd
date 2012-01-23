@@ -202,19 +202,6 @@ Experiência com infra-estrutura de aplicações web de alta escala;
 Conhecimento de automação de deploy com Puppet, Chef, etc;
 Ser poliglota em linguagens de programação e linguagens naturais;
 
-
-Área de Social (2 Vagas)
--------------------------------
-Somos responsáveis pelas principais interações dos usuários com a Globo.com, criando sistemas (plataforma) de comentários, cadastro, participações em programas/concursos, recebimento de colaborações e também do **relacionamento** com as principais redes sociais do mercado.
-
-Procuramos desenvolvedores apaixonados pela sua profissão, que estejam sempre atrás de novos conhecimentos e gostem de se envolver em projetos desafiadores. O profissional deve ter pelo menos 2 anos de experiencia com programação para web.
-
-- Experiencia em Python e Django / Ruby on Rails;
-- Experiencia com desenvolvimento web (HTML, CSS, JavaScript);
-- Experiência com práticas de engenharia de software, tais como testes unitários, TDD, pair programming, refactoring;
-- Inglês técnico
-
-
 Área Mobile (1 vaga)
 ------------------------------
 Somos os responsáveis pela criação de aplicativos estratégicos para smartphones e tablets. Nossa missão é explorar a plataforma móvel, buscando inovações tecnológicas, funcionais e de experiência do usuário. O escopo tecnológico que trabalhamos pode variar entre apps nativas para as plataformas iOS e Android; web apps, envolvendo HTML 5, CSS e Javascript; e sistemas backend para suportar nossos apps, usando Ruby ou Python. No momento, o nosso foco são apps nativas para o iOS e Android, mas iremos trabalhar com web apps a partir do 2o semestre de 2012. Nosso escopo de atuação não inclui os sites mobile dos portais Globo.com.
