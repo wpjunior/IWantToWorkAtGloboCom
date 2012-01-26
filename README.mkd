@@ -74,9 +74,13 @@ vai investir de forma consistente na sua carreira e crescimento profissional**.
 Ok, quero trabalhar na globo.com! Como eu faço?
 ===============================================
 
-Se você se convenceu que quer trabalhar na globo.com, forka esse projeto, faz
-um pull request e preencha o arquivo cv.mkd com a vaga que você escolheu e seu
-currículo. Sinta-se a vontade para incluir QUALQUER coisa que você acredite que
+Se você se convenceu que quer trabalhar na globo.com:
+
+* Forka esse projeto;
+* No seu fork, preencha o arquivo cv.mkd com seu currículo, indicando a vaga que você escolheu;
+* Faça um pull request.
+
+Sinta-se a vontade para incluir QUALQUER coisa que você acredite que
 vá ser bom pra sua imagem perante quem estará recebendo esses dados (twitter,
 facebook, sites online, outros trabalhos, etc).
 
