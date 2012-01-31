@@ -156,7 +156,7 @@ Experiência com infra-estrutura de aplicações web de alta escala;
 Conhecimento de automação de deploy com Puppet, Chef, etc;
 Ser poliglota em linguagens de programação e linguagens naturais;
 
-Área de Jornalismo (1 Vaga)
+Área de Jornalismo (2 vagas)
 -------------------------------
 
 Você quer ajudar a construir o maior portal de notícias do país? Venha participar da equipe que faz o G1 e ajude a informar melhor 10 milhões de brasileiros todo dia.
