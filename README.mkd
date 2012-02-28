@@ -195,30 +195,3 @@ Procuramos profissionais com skillset forte em:
 * Desenvolvimento em geral (orientação a objetos, design patterns e boas práticas de programação, etc);
 * Técnicas de qualidade de código (TDD, Code Review, Pair Programming) - este item não é obrigatório, no entanto;
 * Conhecimentos avançados de performance Client-Side e SEO são um diferencial;
-
-Área Mobile (1 vaga)
-------------------------------
-Somos os responsáveis pela criação de aplicativos estratégicos para smartphones e tablets. Nossa missão é explorar a plataforma móvel, buscando inovações tecnológicas, funcionais e de experiência do usuário. O escopo tecnológico que trabalhamos pode variar entre apps nativas para as plataformas iOS e Android; web apps, envolvendo HTML 5, CSS e Javascript; e sistemas backend para suportar nossos apps, usando Ruby ou Python. No momento, o nosso foco são apps nativas para o iOS e Android, mas iremos trabalhar com web apps a partir do 2o semestre de 2012. Nosso escopo de atuação não inclui os sites mobile dos portais Globo.com.
-
-**Must Have:**
-
-Ser apaixonado por desenvolvimento e tecnologia e um entusiasta do universo mobile;
-Trabalhar bem em equipe, buscando os objetivos do time acima de tudo;
-Ser flexível, comprometido com resultados e proativo;
-Escrever código limpo, legível, tendo como meta um código de boa manutenabilidade;
-Ter sólidos conhecimentos em OO, design e arquitetura de software;
-Fluência em pelo menos duas linguagens de programação;
-Experiência com desenvolvimento WEB (HTML, CSS, Javascript, jQuery, etc);
-
-**Should Have:**
-
-Experiência com Ruby e Rails, ou Python e Django;
-Experiência com práticas de XP (TDD, pair programming, refactoring, continuous integration, etc); 
-Experiência com testes automatizados: unitários, de aceitação, mocks, Selenium, etc;
-
-**Nice to have:**
-
-Experiência com Objective-C, C++, C# ou C;
-Conhecimento de técnicas cross-browser, HTML5, CSS3 e SEO; 
-Experiência com metodologias ágeis, como Scrum; 
-Experiência com infra-estrutura de aplicações web de alta escala; 
