@@ -179,19 +179,3 @@ Experiência com metodologias ágeis, como Scrum;
 Experiência com infra-estrutura de aplicações web de alta escala;
 Conhecimento de automação de deploy com Puppet, Chef, etc;
 Ser poliglota em linguagens de programação e linguagens naturais;
-
-Área de Esportes (1 Vaga)
--------------------------------
-
-O globoesporte.com, maior portal de esportes do Brasil, está com vagas para Desenvolvedores Web. 
-
-Se você é um desenvolvedor e procura grandes desafios na área de web, aproveite essa oportunidade!
-
-Procuramos profissionais com skillset forte em:
-
-* Linguagens de Programação (Javascript é obrigatório e pelo menos mais uma com nível de proficiência alto);
-* Frameworks (jQuery, mootools, YUI, DOJO, Prototype etc);
-* HTML, CSS (Cross-browser, Tableless, DOM, Webstandards);
-* Desenvolvimento em geral (orientação a objetos, design patterns e boas práticas de programação, etc);
-* Técnicas de qualidade de código (TDD, Code Review, Pair Programming) - este item não é obrigatório, no entanto;
-* Conhecimentos avançados de performance Client-Side e SEO são um diferencial;
