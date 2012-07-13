@@ -142,7 +142,7 @@ Experiência com infra-estrutura de aplicações web de alta escala;
 Conhecimento de automação de deploy com Puppet, Chef, etc;
 Ser poliglota em linguagens de programação e linguagens naturais;
 
-Área de Plataformas Sociais (2 Vaga)
+Área de Plataformas Sociais (2 Vagas)
 -------------------------------
 
 Na área de Plataformas Sociais são construídas plataformas que buscam facilitar o trabalho do usuário na utilização 
