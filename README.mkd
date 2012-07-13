@@ -141,3 +141,33 @@ Experiência com metodologias ágeis, como Scrum;
 Experiência com infra-estrutura de aplicações web de alta escala;
 Conhecimento de automação de deploy com Puppet, Chef, etc;
 Ser poliglota em linguagens de programação e linguagens naturais;
+
+Área de Plataformas Sociais (2 Vaga)
+-------------------------------
+
+Na área de Plataformas Sociais são construídas plataformas que buscam facilitar o trabalho do usuário na utilização 
+dos produtos da globo.com. Entendendo o perfil do usuário em suas iterações com os produtos da Globo.com e em suas 
+redes sociais, podemos ofertar um conteúdo mais relevante para nossos usuários.
+
+Se você gosta de Machine Learning e é apaixonado por Sistemas de Recomendação esse é o seu time. 
+
+**Must Have:**
+Ser apaixonado por desenvolvimento e tecnologia;
+Ter facilidade de trabalhar dentro de times multi-disciplinares;
+Escrever código limpo e legível para pessoas;
+Ter conhecimentos em design e arquitetura de software;
+Experiência com Python e Django;
+Experiência com desenvolvimento WEB (HTML, CSS, Javascript, jQuery, etc);
+
+**Should Have:**
+Experência com práticas de XP (TDD, pair programming, refactoring, continuous integration, etc);
+Experiência com testes unitários, de aceitação, mocks, Selenium, etc;
+Conhecimento de técnicas cross-browser, SEO, HTML5 e CSS3;
+
+**Nice to Have:**
+Conhecer muito de Machine Learning e preferêncialmente o tópico de sistemas de Recomendação.
+Experiência com metodologias ágeis, como Scrum;
+Experiência com infra-estrutura de aplicações web de alta escala;
+Conhecimento de automação de deploy com Puppet, Chef, etc;
+Ser poliglota em linguagens de programação e linguagens naturais;
+
