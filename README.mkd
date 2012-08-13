@@ -149,6 +149,38 @@ Experiência com infra-estrutura de aplicações web de alta escala;
 Conhecimento de automação de deploy com Puppet, Chef, etc;
 Ser poliglota em linguagens de programação e linguagens naturais;
 
+Área de Webmedia (1 Vaga)
+-------------------------------
+
+Esta posição é na área responsável pelo processo de publicação e disponibilização de toda a produção 
+de vídeos das organizações Globo na Internet. Hoje, mais de 250 milhões de vídeos são assistidos por mês,
+suportado por uma infra-estrutura gigantesca. Trabalhamos com as mais diversas linguagens (Ruby on Rails, C/C++, 
+Python/Django, JS/HTML/CSS), desenvolvendo desde APIs, sistemas de distribuição, sistemas de recomendação, até 
+portais, como o globo.tv - http://globotv.globo.com.
+
+Além disso, somos responsáveis pela transmissão ao vivo de vários eventos - desde campeonatos estaduais de futebol,
+grandes eventos como o último Rock-in-Rio, até as câmeras ao vivo do BBB, que ficam disponíveis para os assinantes
+da globo.com enquanto o programa está no ar.
+
+**Must Have:**
+* Ser apaixonado por desenvolvimento e tecnologia;
+* Ter facilidade de trabalhar dentro de times multi-disciplinares;
+* Escrever código limpo e legível para pessoasl
+* Ter conhecimento e experiência em design e arquitetura de software;
+* Experiência com Python, Ruby ou C/C++;
+* Experiência com desenvolvimento WEB (HTML, CSS, Javascript, jQuery, etc);
+
+**Should Have:**
+* Experência com práticas de XP (TDD, pair programming, refactoring, continuous integration, etc);
+* Experiência com testes unitários, de aceitação, mocks, Selenium, etc;
+* Conhecimento de técnicas cross-browser, SEO, HTML5 e CSS3;
+
+**Nice to Have:**
+* Experiência com metodologias ágeis, como Scrum;
+* Experiência com infra-estrutura de aplicações web de alta escala;
+* Conhecimento de automação de deploy com Puppet, Chef, etc;
+* Ser poliglota em linguagens de programação e linguagens naturais;
+
 Área de Plataformas Sociais (2 Vagas)
 -------------------------------
 
