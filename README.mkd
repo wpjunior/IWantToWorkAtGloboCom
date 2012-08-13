@@ -154,7 +154,7 @@ Ser poliglota em linguagens de programação e linguagens naturais;
 
 Esta posição é na área responsável pelo processo de publicação e disponibilização de toda a produção 
 de vídeos das organizações Globo na Internet. Hoje, mais de 250 milhões de vídeos são assistidos por mês,
-suportado por uma infra-estrutura gigantesca. Trabalhamos com as mais diversas linguagens (Ruby on Rails, C/C++, 
+suportados por uma infra-estrutura gigantesca. Trabalhamos com as mais diversas linguagens (Ruby on Rails, C/C++, 
 Python/Django, JS/HTML/CSS), desenvolvendo desde APIs, sistemas de distribuição, sistemas de recomendação, até 
 portais, como o globo.tv - http://globotv.globo.com.
 
@@ -165,7 +165,7 @@ da globo.com enquanto o programa está no ar.
 **Must Have:**
 * Ser apaixonado por desenvolvimento e tecnologia;
 * Ter facilidade de trabalhar dentro de times multi-disciplinares;
-* Escrever código limpo e legível para pessoasl
+* Escrever código limpo e legível para pessoas;
 * Ter conhecimento e experiência em design e arquitetura de software;
 * Experiência com Python, Ruby ou C/C++;
 * Experiência com desenvolvimento WEB (HTML, CSS, Javascript, jQuery, etc);
