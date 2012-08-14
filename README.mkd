@@ -159,8 +159,8 @@ Python/Django, JS/HTML/CSS), desenvolvendo desde APIs, sistemas de distribuiçã
 portais, como o globo.tv - http://globotv.globo.com.
 
 Além disso, somos responsáveis pela transmissão ao vivo de vários eventos - desde campeonatos estaduais de futebol,
-grandes eventos como o último Rock-in-Rio, até as câmeras ao vivo do BBB, que ficam disponíveis para os assinantes
-da globo.com enquanto o programa está no ar.
+grandes eventos como o último Rock-in-Rio, até as câmeras ao vivo do BBB, que ficam disponíveis 24x7 para todos os 
+assinantes da globo.com enquanto o programa está no ar.
 
 **Must Have:**
 * Ser apaixonado por desenvolvimento e tecnologia;
