@@ -149,7 +149,7 @@ Experiência com infra-estrutura de aplicações web de alta escala;
 Conhecimento de automação de deploy com Puppet, Chef, etc;
 Ser poliglota em linguagens de programação e linguagens naturais;
 
-Área de Webmedia (1 Vaga)
+Área de Webmedia (2 Vagas)
 -------------------------------
 
 Esta posição é na área responsável pelo processo de publicação e disponibilização de toda a produção 
