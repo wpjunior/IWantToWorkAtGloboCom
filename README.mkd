@@ -77,7 +77,8 @@ Ok, quero trabalhar na globo.com! Como eu faço?
 Se você se convenceu que quer trabalhar na globo.com:
 
 * Forka esse projeto;
-* No seu fork, preencha o arquivo cv.mkd com seu currículo, indicando a vaga que você escolheu;
+* No seu fork, preencha o arquivo cv.mkd com seu currículo;
+* Não esqueça de indicar a vaga que você escolheu; se você achar que se encaixa em mais de uma vaga, especifique todas!
 * Faça um pull request.
 
 Sinta-se a vontade para incluir QUALQUER coisa que você acredite que
@@ -147,7 +148,7 @@ Conhecimento de automação de deploy com Puppet, Chef, etc;
 Ser poliglota em linguagens de programação e linguagens naturais;
 
 
-Área de Entretenimento (1 Vaga)
+Área de Entretenimento (2 Vagas)
 -------------------------------
 
 Na área de Entrenimento são feitos os produtos ligados diretamente aos programas da TV Globo:
