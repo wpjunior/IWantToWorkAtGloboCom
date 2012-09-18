@@ -251,10 +251,10 @@ Na equipe da home da globo.com você irá trabalhar com:
 
 As linguagens de programação que utilizamos são:
 
+* Muito, mas muito Javascript;
 * Python;
 * Ruby;
-* C;
-* Muito, mas muito Javascript.
+* C.
 
 **Must Have:**
 * Saber inglês (de verdade);
@@ -263,10 +263,11 @@ As linguagens de programação que utilizamos são:
 * Muita vontade de aprender;
 * Loucura por colocar produtos em produção;
 * Ser alucinado por experimentar novas tecnologias;
-* Experiência com programação em geral.
-
-**Should Have:**
-* Experiência com programação em geral (algoritmos, linguagens, desenvolvimento web).
+* Experiência com programação em geral e desenvolvimento web;
+* Experiência com um mecanismo de controle de versão;
+* Proficiência no uso de um sistema operacional base Unix (Linux ou Mac OS);
+* Experiência com alguma linguagem dinâmica.
 
 **Nice to Have:**
+* Conhecimento de mecanismos de provisionamento de servidores;
 * Contribuições em projetos open source.
