@@ -236,3 +236,37 @@ Experiência com infra-estrutura de aplicações web de alta escala;
 Conhecimento de automação de deploy com Puppet, Chef, etc;
 Ser poliglota em linguagens de programação e linguagens naturais;
 
+Área de Home (1 vaga)
+---------------------
+
+A home da globo.com é a porta de entrada para notícias, esportes e entretenimento
+para mais de 10 milhões de brasileiros diariamente.
+
+Na equipe da home da globo.com você irá trabalhar com:
+
+* Home da globo.com;
+* Home do etc.globo.com;
+* Serviço de fotos da globo.com;
+* Muitos outro aplicativos de apoio.
+
+As linguagens de programação que utilizamos são:
+
+* Python;
+* Ruby;
+* C;
+* Muito, mas muito Javascript.
+
+**Must Have:**
+* Saber inglês (de verdade);
+* Base matemática (não precisa ter ganho o Nobel);
+* Compreensão do modelo de trabalho de Software Livre;
+* Muita vontade de aprender;
+* Loucura por colocar produtos em produção;
+* Ser alucinado por experimentar novas tecnologias;
+* Experiência com programação em geral.
+
+**Should Have:**
+* Experiência com programação em geral (algoritmos, linguagens, desenvolvimento web).
+
+**Nice to Have:**
+* Contribuições em projetos open source.
