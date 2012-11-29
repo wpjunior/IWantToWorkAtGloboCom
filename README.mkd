@@ -243,3 +243,65 @@ As linguagens de programação que utilizamos são:
 **Nice to Have:**
 * Conhecimento de mecanismos de provisionamento de servidores;
 * Contribuições em projetos open source.
+
+
+Plataforma de Cadastro (1 Vaga)
+---------------------------------
+
+Time responsável pela plataforma única de cadastro e login da globo.com, assim como as inscrições de programas como "BBB", "The Voice" e colaborações dos internautas. O Time trabalha com diversas tecnologias, linguagens, frameworks e sistemas, o que proporciona um ambiente variado, interessante e desafiador. Nossas aplicações lidam com milhões de requisições diariamente e precisamos de soluções criativas para lidar com estes volumes. 
+
+**Requisitos para a vaga**
+
+* Práticas de engenharia de software (refactory, TDD, etc..)
+* Proficiência em Arquiteturas de sistemas web (arquiteturas comuns, casos de sucesso, problemas típicos etc..)
+* Conhecimentos de mecanismos e estratégias de cache
+* Experiência sólida em desenvolvimento web (HTTP, REST, webserver, etc..)
+* Noções de segurança web (injection, XSS, CSRF, codificação segura)
+* Conhecimentos mínimos em infraestrutra (Sistemas Operacionais, Redes (TCP/IP), DNS, webservers etc..)
+* Queries SQL, Oracle e Mysql
+* Sólidos conhecimentos em java, ruby, javascript e CSS
+* Experiência em java com JPA, Hibernate, Spring, EJB, Struts, Velocity
+* Experiência em com jboss e tomcat
+* Experiência em java com o pacote "java.concurrent"
+
+
+Plataforma de Personalização (1 Vaga)
+-------------------------------------
+
+Time responsável por analisar o perfil dos usuários com base em suas iterações com os produtos da globo.com e informações proveniente de suas redes sociais. O objetivo com isso é gerar recomendação de conteúdo relevante para os usuário de modo a aumentar o tempo de permanência nos sites da Globo.com.
+
+
+**Requisitos para a vaga**
+
+* Experiência em uso de bancos NoSql 
+* Proficiência no uso de um sistema operacional base Unix (Linux ou Mac OS);
+* Proficiência no desenvolvimento de sistemas de recomendação nas abordagens Collaborative Filtering e Content Based.
+* Experiência no processamento de grandes volumes de dados e eventos em tempo real.
+* Conhecimento do projeto Apache Mahout
+* Experiência sólida em design e arquitetura de software; 
+* Experiência sólida em construção de aplicações web com Ruby, Rails; 
+* Experiência sólida com desenvolvimento WEB (HTML, CSS, Javascript, jQuery, etc);
+* Experiência com práticas de XP (TDD, pair programming, refactoring, continuous integration, etc)
+
+
+Plataforma de Comentários (2 Vagas)
+-------------------------------------
+
+Time responsável por desenvolver a plataforma de comentários da globo.com. 
+
+**Requisitos para a vaga**
+
+* Ser apaixonado por desenvolvimento e tecnologia; 
+* Ter facilidade de trabalhar dentro de times multi-disciplinares; 
+* Escrever código limpo e legível para pessoas; 
+* Experiência sólida em design e arquitetura de software; 
+* Experiência sólida em construção de aplicações web com Python, Django, Tornado; 
+* Experiência sólida com desenvolvimento WEB (HTML, CSS, Javascript, jQuery, etc);
+* Experiência com práticas de XP (TDD, pair programming, refactoring, continuous integration, etc)
+* Experiência com testes unitários, de aceitação, mocks, Selenium, etc;
+* Experiência com infra-estrutura de aplicações web de alta escala; 
+* Experiência com um mecanismo de controle de versão;
+* Proficiência no uso de um sistema operacional base Unix (Linux ou Mac OS);
+
+
+
