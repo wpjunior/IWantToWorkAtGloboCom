@@ -186,15 +186,15 @@ Ser poliglota em linguagens de programação e linguagens naturais;
 Área de Webmedia (2 Vagas)
 -------------------------------
 
-Esta posição é na área responsável pelo processo de publicação e disponibilização de toda a produção 
-de vídeos das organizações Globo na Internet. Hoje, mais de 250 milhões de vídeos são assistidos por mês,
-suportados por uma infra-estrutura gigantesca. Trabalhamos com as mais diversas linguagens (Ruby on Rails, C/C++, 
-Python/Django, JS/HTML/CSS), desenvolvendo desde APIs, sistemas de distribuição, sistemas de recomendação, até 
-portais, como o globo.tv - http://globotv.globo.com.
+Esta posição é na área responsável pela área de vídeos da Globo.com. Nossa missão é disponibilizar toda a produção 
+de vídeos das organizações Globo na Internet, com a melhor qualidade possível. Hoje, mais de 250 milhões de vídeos 
+são assistidos por mês, suportados por uma infra-estrutura gigantesca. Trabalhamos com as mais diversas linguagens
+(Ruby on Rails, C/C++, Python/Django, JS/HTML/CSS), desenvolvendo desde APIs, sistemas de encoding, infra-estrutura 
+de distribuição e entrega de vídeos, sistemas de recomendação e analytics, até portais, como o globo.tv - http://globotv.globo.com.
 
 Além disso, somos responsáveis pela transmissão ao vivo de vários eventos - desde campeonatos estaduais de futebol,
 grandes eventos como o último Rock-in-Rio, até as câmeras ao vivo do BBB, que ficam disponíveis 24x7 para todos os 
-assinantes da globo.com enquanto o programa está no ar.
+assinantes da globo.com.
 
 **Must Have:**
 * Ser apaixonado por desenvolvimento e tecnologia;
@@ -214,43 +214,6 @@ assinantes da globo.com enquanto o programa está no ar.
 * Experiência com infra-estrutura de aplicações web de alta escala;
 * Conhecimento de automação de deploy com Puppet, Chef, etc;
 * Ser poliglota em linguagens de programação e linguagens naturais;
-
-
-Área de Home (1 vaga)
----------------------
-
-A home da globo.com é a porta de entrada para notícias, esportes e entretenimento
-para mais de 10 milhões de brasileiros diariamente.
-
-Na equipe da home da globo.com você irá trabalhar com:
-
-* Home da globo.com;
-* Home do etc.globo.com;
-* Serviço de fotos da globo.com;
-* Muitos outro aplicativos de apoio.
-
-As linguagens de programação que utilizamos são:
-
-* Muito, mas muito Javascript;
-* Python;
-* Ruby;
-* C.
-
-**Must Have:**
-* Saber inglês (de verdade);
-* Base matemática (não precisa ter ganho o Nobel);
-* Compreensão do modelo de trabalho de Software Livre;
-* Muita vontade de aprender;
-* Loucura por colocar produtos em produção;
-* Ser alucinado por experimentar novas tecnologias;
-* Experiência com programação em geral e desenvolvimento web;
-* Experiência com um mecanismo de controle de versão;
-* Proficiência no uso de um sistema operacional base Unix (Linux ou Mac OS);
-* Experiência com alguma linguagem dinâmica.
-
-**Nice to Have:**
-* Conhecimento de mecanismos de provisionamento de servidores;
-* Contribuições em projetos open source.
 
 
 Plataforma de Cadastro (1 Vaga)
