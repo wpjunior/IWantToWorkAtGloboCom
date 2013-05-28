@@ -124,37 +124,6 @@ Estamos sempre em busca de talentos! Mesmo que não haja vaga disponível abaixo
 faça o fork do projeto e mande no lugar da vaga "Nenhuma vaga disponível".
 
 
-Área de Esporte (1 vaga)
--------------------------------
-
-Às vésperas da Copa 2014 e das Olimpíadas 2016, você terá a oportunidade de fazer parte da equipe de desenvolvimento do portal líder em esportes no Brasil. Se você quer fazer parte dessa história, encarando os desafios que temos pela frente, esse é o seu time!
-
-
-**Must Have:**
-Ser apaixonado por desenvolvimento e tecnologia;
-Ter facilidade de trabalhar dentro de times multi-disciplinares;
-Experiência sólida em pelo menos 1 linguagem de programação;
-Experiência sólida com desenvolvimento WEB (HTML5, CSS3, Javascript, jQuery e JqueryUI);
-Experiência em testes automatizados (testes unitários, de aceitação, mocks, testes JS, etc);
-Conhecimento em Python e Django;
-Ter conhecimentos em design e arquitetura de software;
-Conhecimento em banco de dados relacional;
-Conhecimento em SEO;
-Consegue ter bom relacionamento interpessoal e pró-atividade;
-
-**Should Have:**
-Experiência com práticas de XP  (TDD, pair programming, refactoring, continuous integration, etc);
-Conhecimento de técnicas cross-browser, performance client-side, web semantics, etc;
-Conhecimento de banco de dados NoSql;
-Conhece conceitos de infraestrutura (características DEVOPs);
-Conhecimento em outras linguagens de desenvolvimento para web (ex.: ruby, php, java, etc);
-
-**Nice to Have:**
-Experiência com metodologias ágeis, como Scrum;
-Conhecimento de automação de deploy com Puppet, Chef, etc;
-Ser poliglota em linguagens de programação e linguagens naturais;
-
-
 
 Área de Jornalismo (1 vaga)
 -------------------------------
