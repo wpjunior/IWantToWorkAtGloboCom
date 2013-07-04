@@ -250,7 +250,7 @@ Esta posição é no time responsável pela semântica da Globo.com. Nossa miss�
 
 Trabalhamos com as mais diversas linguagens (Java, Python/Django, JS/HTML/CSS), desenvolvendo APIs, ferramentas de anotação, e novos domínios (ontologias).
 
-Must Have:
+**Must Have:**
 Ser apaixonado por desenvolvimento e tecnologia;
 Ter facilidade de trabalhar dentro de times multi-disciplinares;
 Escrever código limpo e legível para pessoas;
@@ -258,15 +258,14 @@ Ter conhecimento e experiência em design e arquitetura de software;
 Experiência com Python, Ruby ou C/C++;
 Experiência com desenvolvimento WEB (HTML, CSS, Javascript, jQuery, etc);
 
-Should Have:
+**Should Have:**
 Experência com práticas de XP (TDD, pair programming, refactoring, continuous integration, etc);
 Experiência com testes unitários, de aceitação, mocks, Selenium, etc;
 Conhecimento de técnicas cross-browser, SEO, HTML5 e CSS3;
 Conhecimento de web semântica (Ontologia, Sparql e Owl); 
 Conhecimento de vocabulários padrões de mercado(FOAF, Dublin Core, GEO,...)
 
-Nice to Have:
-
+**Nice to Have:**
 Experiência com metodologias ágeis, como Scrum;
 Experiência com infra-estrutura de aplicações web de alta escala;
 Conhecimento de automação de deploy com Puppet, Chef, etc;
