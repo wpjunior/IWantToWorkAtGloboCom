@@ -1,19 +1,131 @@
-Vaga
+﻿Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
-
-__Dicas:__
-* Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
+* Area de Esportes.<br/>
+* Area de Jornalismo.<br/>
+* Area de Webmedia.<br/>
+* Area de Semântica.<br/>
+* Area de Comentários.<br/>
+* Area Plataforma de Cadastro.<br/>
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+**[CV Rafael Marques]**
+ <br/>
+ **Dados Pessoais** <br/>
+  Rafael Marques<br/>
+  Brasileiro, 24 anos (04/09/88), Solteiro<br/>
+  Cep: 21660-050 Rio de Janeiro, Rio de Janeiro - Brasil<br/>
+  Celular: (21) 8766-6529<br/>
+  rafamqrs@yahoo.com.br<br/>
+ 
+**Conhecimento e Áreas de Interesse**
+<br/>
+----------------------------------
+* Entusiasta de Metodologias Ágeis, XP e SCRUM.
+<br/>
+* Python/Django, HTML, CSS, Javascript, Ruby on Rails.
+<br/>
+* IDE Preferida: Eclipse e Idle.
+<br/>
+* Usuário de Sistemas Linux há 4 anos, atualmente utilizando mac os.
+<br/>
+* Facilidade de aprender, adaptação rápida a mudanças, comprometido, metódico e organizado.
+<br/>
+**Outros Conhecimentos**<br/>
+  S.O Linux e  MacOS.<br/>
+  Python, Ruby on Rails,HTML 5, .NET, MS SQLServer e ORACLE.<br/>
+  
+**Formação**:
+<br/>
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável, e provavelmente mais pessoas da Globo.com irão lê-lo.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [IWantToWorkAtGloboCom] (http://github.com/globocom/IWantToWorkAtGloboCom), para ver o cheat-sheet
+**Pós-Graduação – MBA**<br/>
+  MBA Engenharia de Software Java, Infnet - Escola Superior de Tecnologia da Informação (outubro/2013) - cursando.
+<br/>
+**Graduação**<br/>
+  Analise e Desenvolvimento de Sistemas, Universidade Estacio de Sá (junho/2011) - concluída.
+<br/>
+**Curso técnico – Médio (2o grau)**<br/>
+  Ensino médio, C.E. Prof. Luiza Marinho (dezembro/2006) - concluída.
+<br/>
+
+**Cursos Complementares**<br/>
+  Python e Django na prática, http://welcometothedjango.com.br/(setembro/2013) - Cursando.<br/> 
+  Design Patterns para bons programadores, Caelum - Cursando.<br/>
+  Engenharia de requisitos, Fundação Bradesco (fevereiro/2013) - concluída.<br/>
+  Teste de Unidade e TDD: Código que funciona, Caelum (janeiro/2013) - concluída.<br/>
+  UML, Fundação Bradesco (outubro/2012) - concluída.<br/>
+  Gestão estratégica de TI (ITIL), Fundação Bradesco (agosto/2012) - concluída.<br/>
+  Linux Essentials, 4linux (janeiro/2012) - concluída.<br/>
+  Web Developer Java(Java OO, JEE, JSF, STRUTS, HIBERNATE, JPA, WS), Coti Informática (outubro/2010) - concluída.<br/>
+  Curso de PHP  MYSQL, IPED (fevereiro/2010) - concluída.<br/>
+  Inglês, Fisk (dezembro/2009) - concluída.<br/>
+  Montagem e manuteção de micros e Redes, Microlins (fevereiro/2009) - concluída.<br/>
+  Curso de Informatica, Faetc (novembro/2008) - concluída.<br/>
+  Computação Gráfica, Faetec (agosto/2008) - concluída.<br/>
+             
+**Idiomas**
+<br/>
+  Inglês: leitura avançada, escrita avançada, conversação avançada.
+  Espanhol: leitura básica, escrita básica, conversação básica.
+             
+**Histórico profissional**
+<br/>
+*TV BRASIL - ACERP - desde junho/2012*<br/>
+*Analista de Desenvolvimento de Sistemas - desde 06/2013*<br/>
+  Levantamento de requisitos com usuários do sistema para desenvolvimento de
+  novas funcionalidades,elaboração de diagrama de classe, casos de uso,
+  especificação funcional para construção de módulos do sistema.
+  Manutenção e desenvolvimento de sistema para controle de todo o fluxo da TV
+  Analógica e integração com a TV digital. Manutenção e desenvolvimento de
+  WebService para integração com sistemas de terceiros e disponibilização de
+  serviço para aplicativos Android e IOS. Tecnologias Utilizadas: JAVA, JAAS, JSF,
+  Hibernate, JPA, Spring, JDBC, RichFaces, PrimeFaces, JavaScript, Jquery, Twitter Bootstrap e CSS.
+  Ferramenta de build: MAVEN.
+  Servidores de Aplicação JBoss 5 e 7.
+  Container: Tomcat 6 e 7.
+  Metodologias ágeis: SCRUM.
+
+**Oi - de janeiro/2012 a junho/2012**<br/>
+*Analista de Sistemas I 01/2012 – 06/2012*<br/>
+  Análise de requisitos e desenvolvimento de sistemas em JAVA e PHP.
+  Administração de SVN e configuração de sistemas no ambiente Linux.
+  Utilização dos seguintes frameworks:JSF, Hibernate, Zend framework, JavaScript
+  e CSS.
+  Desenvolvimento de pequenos shell script.
+  Servidor Jboss.
+  Banco de dados: Oracle e Mysql.
+  Elaboração de relatórios para usuários das redes SDH, MetroEthernet e xDSL.
+  Metodologias ágeis: SCRUM.
+  Conhecimentos do servidores, tomcat e jboss.
+  Elaboração de relatórios para usuários das redes SDH, MetroEthernet e xDSL, carga de dados no banco de dados oracle. ETL usando a ferramenta talend.
+
+**Quality Software - de janeiro/2011 a dezembro/2011**
+*Analista Java JR*<br/>
+  Análise e levantamento de requisitos, elaboração de documentação, casos de uso.
+  Desenvolvimento de sistemas em Java utilizando:
+  Java Server Faces, Facelets, EJB, Hibernate, Portlets, utilização do portal
+  LIFERAY, JavaScript e CSS. Servidor de aplicação Jboss, auxílio e configuração
+  em servidores Linux. Desenvolvimento de pequenos shell script.
+  Ferramenta de build: Ant.
+  Conhecimento da especificação JSR 168 e JSR286.
+  Banco de dados: Oracle e Mysql.
+  Metodologias ágeis: SCRUM.
+
+**Icatu Hartford Seguros,Previdência e Capitalização - de novembro/2009 a janeiro/2011**
+*Estagiário de Análise e Desenvolvimento de Sistemas*<br/>
+  Acompanhamento nas ações desenvolvidas pelos analistas.
+  Desenvolvimento de sistemas em Java. Construção e Manutenção de Procedures,
+  Funções e Triggers. Atendimento a usuários do Sistema.
+  Especificação e acompanhamento do desenvolvimento das aplicações de
+  Terceiros para CRC, criação de layout para comunicação de arquivos.
+  Utilização de ferramenta para versionamento de software (Tortoise e SVN).
+  
+  Ferramentas Utilizadas:Eclipse, Oracle 10g, PL/SQL Developer e QueryAnalyzer
+  (SQL Server);
+  
+
+__Site Externo:__
+* Linkedin
+  * [Linkedin Rafael Marques] (http://br.linkedin.com/pub/rafael-marques/25/550/95a)
