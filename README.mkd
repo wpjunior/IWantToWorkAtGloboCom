@@ -295,3 +295,15 @@ Experiência com metodologias ágeis, como Scrum;
 Experiência com infra-estrutura de aplicações web de alta escala;
 Conhecimento de automação de deploy com Puppet, Chef, etc;
 Ser poliglota em linguagens de programação e linguagens naturais;
+
+
+Tsuru: Plataforma como serviço (1 Vaga)
+-------------------------------------
+
+O Tsuru é uma plataforma como serviço (PaaS) open source, nascida na Globo.com, com objetivo de tornar o processo de deploy de uma aplicação mais rápido, simples e divertido.
+
+Procuramos profissionais que gostem de aprender, interessados em trabalhar com open source e em tornar o Tsuru o melhor PaaS do universo. 
+
+Fazer parte da equipe do Tsuru significa que você vai lidar com diversas atividades envolvidas no processo de desenvolvimento e execução de uma aplicação; linguagens e frameworks; sistemas de controle de versão; sistemas operacionais; gerenciamento de máquinas virtuais e containers; e redes de computadores. 
+
+Entre as tecnologias utilizadas no Tsuru, você encontrará Go, Python, MongoDB, MySQL, Docker, Juju, Shell Script, Amazon Web Services, etc.
