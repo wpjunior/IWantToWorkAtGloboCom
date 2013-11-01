@@ -182,7 +182,7 @@ Ser poliglota em linguagens de programação e linguagens naturais;
 
 
 
-Área de Webmedia (3 Vagas)
+Área de Webmedia (2 Vagas)
 -------------------------------
 
 Esta posição é na área responsável pela área de vídeos da Globo.com. Nossa missão é disponibilizar toda a produção de vídeos das organizações Globo na Internet, com a melhor qualidade possível. Hoje, mais de 250 milhões de vídeos são assistidos por mês, suportados por uma infra-estrutura gigantesca. Trabalhamos com as mais diversas linguagens (Ruby on Rails, C/C++, Python/Django, JS/HTML/CSS), desenvolvendo desde APIs, sistemas de encoding, infra-estrutura de distribuição e entrega de vídeos, sistemas de recomendação e analytics, até portais, como o globo.tv - http://globotv.globo.com.
