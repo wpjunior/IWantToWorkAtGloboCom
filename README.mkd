@@ -247,3 +247,52 @@ Procuramos profissionais que gostem de aprender, interessados em trabalhar com o
 Fazer parte da equipe do Tsuru significa que você vai lidar com diversas atividades envolvidas no processo de desenvolvimento e execução de uma aplicação; linguagens e frameworks; sistemas de controle de versão; sistemas operacionais; gerenciamento de máquinas virtuais e containers; e redes de computadores. 
 
 Entre as tecnologias utilizadas no Tsuru, você encontrará Go, Python, MongoDB, MySQL, Docker, Juju, Shell Script, Amazon Web Services, etc.
+
+
+Área de Infraestrutura (6 vaga)
+--------------------------------
+
+Perfil ideal:
+ 
+O meio caminho entre um desenvolvedor e um sysadmin. Você sabe o que é POSIX e já recompilou o kernel do seu Sistema Operacional. Brinca de testes de carga em servidores nas horas vagas. Vê necessidade de melhoria contínua. Ama trabalhar com ferramentas e tecnologias open source. Acredita que o sistema precisa prover o melhor não só ao usuário final, mas também à quem irá administra-lo. Vê a adversidade como uma oportunidade de crescimento. Acredita que a colaboração e o compartilhamento de conhecimento pode ajudá-lo a alcançar um crescimento estável a longo prazo com beneficios mútuos, maximizando não só o desempenho individual como coletivo.
+
+Competências Comportamentais Necessárias:
+ 
+ - Orientado a resultados;
+ - Comprometido;
+ - Criativo;
+ - Autodidata;
+ - Pró-ativo;
+ - Ser apaixonado por engenharia de software, performance e escalabilidade;
+ - Ser apaixonado pelo que faz;
+ - Saber se comunicar e escrever bem;
+ - Ter alta capacidade de se adaptar à mudanças;
+ 
+ 
+Competências Técnicas Necessárias:
+ 
+- Noções básicas de segurança;
+- Desenvolvimento em geral (Algoritmos / Compiladores / etc.);
+- Conhecimentos de geração de pacotes RPM/DEB;
+- Conhecimentos em sistemas e plataformas Web de alta disponibilidade e escalabilidade;
+- Conhecimento da Amazon AWS;
+- Experiência com desenvolvimento de sistemas utilizando metodologias ágeis;
+- Experiência em uma ou mais linguagens de programação (Python / Java / Ruby / Shell Script, Perl );
+- Conhecimento de automação de deploy com Puppet / Chef / etc;
+- Conhecimento geral Apache / MySQL / nginx / Redis / Memcache / MongoDB;
+- Conhecimentos de sistemas de controle de versão (preferencialmente GIT).
+ 
+ 
+Competências Técnicas Desejáveis:
+ 
+- Conhecimentos de virtualização e cloud são muito desejáveis;
+- Instalação e configuração de novos ambientes de Desenvolvimento, Homologação e Produção na Amazon AWS;
+- Conhecer os principais serviços Linux e como configurá-los e administrá-los;
+- Topologias com alta disponibilidade e tolerância a falhas. Altamente desejável familiaridade com topologia multi-zona. Experiência em topologias multi-região será um diferencial;
+- Elaboração e implantação de planos de backup, restore, monitoração e disaster-recovery;
+- Integração com ambientes corporativos via VPC;
+- Elaboração e implantação de políticas de segurança.
+ 
+ 
+ Nossa equipe é top e nosso ambiente é descontraído e inovador! 
+
