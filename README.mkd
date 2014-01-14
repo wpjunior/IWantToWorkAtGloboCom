@@ -249,7 +249,7 @@ Fazer parte da equipe do Tsuru significa que você vai lidar com diversas ativid
 Entre as tecnologias utilizadas no Tsuru, você encontrará Go, Python, MongoDB, MySQL, Docker, Juju, Shell Script, Amazon Web Services, etc.
 
 
-Área de Infraestrutura (6 vaga)
+Área de Infraestrutura (6 vagas)
 --------------------------------
 
 Perfil ideal:
