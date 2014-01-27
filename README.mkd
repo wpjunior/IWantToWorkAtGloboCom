@@ -319,6 +319,6 @@ Procuramos profissionais que tenham perfil misto de DBA/AD para trabalhar nos pr
 * Big Data
 * Banco de Dados na nuvem
 * NoSQL
-* Conhecimentos em Web Semântic
-* Sparql
+* Conhecimentos em Web Semântica
+* SPARQL
 * Python/Django,Ruby/Rails, Javascript
