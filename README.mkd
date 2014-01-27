@@ -296,3 +296,29 @@ Competências Técnicas Desejáveis:
  
  Nossa equipe é top e nosso ambiente é descontraído e inovador! 
 
+
+Banco de Dados (1 Vaga)
+-------------------------------------
+
+Trabalhamos com diversas tecnologias como Mysql, Oracle, MongoDb, Linked Data, Cluster, Replicação etc.
+
+Procuramos profissionais que tenham perfil misto de DBA/AD para trabalhar nos projetos junto às equipes de desenvolvimento. Buscamos alguém que ame Internet, seja flexível, saiba se comunicar bem, goste de trabalhar em equipes e adore aprender novas tecnologias.
+
+**Habilidades Fundamentais**
+
+* Experiência com administração de MySQL e Oracle
+* Desejável : MongoDB, Openlink Virtuoso, Redis
+* Modelagem de dados
+* Tuning de query
+* Programação em banco de dados (scripts de carga, procedures)
+* Arquiteturas com High Availability
+* Inglês fluente
+
+**Habilidades Desejáveis**
+
+* Big Data
+* Banco de Dados na nuvem
+* NoSQL
+* Conhecimentos em Web Semântic
+* Sparql
+* Python/Django,Ruby/Rails, Javascript
