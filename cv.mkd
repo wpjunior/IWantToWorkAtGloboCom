@@ -20,8 +20,7 @@ Telefone: (62) 8166-9629, (62) 3338-1770
 Objetivo
 --------
 
-Um apaixonado por tecnologia e software livre. Gosto de ajudar, aprender e melhorar o ambiente que eu estou empreendido.
-A globo.com como empresa que valoriza novas tecnologias e inovações tecnológicaa, tenho o desejo de trabalhar em ambientes assim dinâmicos.
+Um apaixonado por tecnologia e software livre. Gosto de ajudar, aprender e melhorar o ambiente que eu estou empreendido. A globo.com como empresa que valoriza novas tecnologias e inovações tecnológicaa, tenho o desejo de trabalhar em ambientes assim dinâmicos.
 
 
 
@@ -62,17 +61,17 @@ Experiência profissional
 ------------------------
 
 * Empresa: Lethus TI.
-  Cargo: Desenvolvedor/Coordenador de sistemas.
-  Duração: desde abril/2011 até o momento.
-  Local: Home Office em Corumbá de Goiás, escritório em Barra Mansa/RJ.
+  * Cargo: Desenvolvedor/Coordenador de sistemas.
+  * Duração: desde abril/2011 até o momento.
+  * Local: Home Office em Corumbá de Goiás, escritório em Barra Mansa/RJ.
 
 * Projeto: MongoEngine (https://github.com/MongoEngine/mongoengine/blob/master/AUTHORS).
-  Cargo: Desenvolvedor/Autor.
-  Duração: desde Julho/2011 até o momento.
+  * Cargo: Desenvolvedor/Autor.
+  * Duração: desde Julho/2011 até o momento.
 
 * Projeto: OpenLanhouse (https://github.com/wpjunior/OpenLanhouse).
-  Cargo: Desenvolvedor/Autor.
-  Duração: de 2007 até 2009.
+  * Cargo: Desenvolvedor/Autor.
+  * Duração: de 2007 até 2009.
 
 
 
