@@ -11,16 +11,16 @@ CV
 Dados de identificação
 ----------------------
 
-Nome: Wilson Pinto Júnior
-Naturalidade: Corumbá de Goiás
-Data de nascimento: 27/10/1992 (21 anos)
-Telefone: (62) 8166-9629, (62) 3338-1770
+* Nome: Wilson Pinto Júnior
+* Naturalidade: Corumbá de Goiás
+* Data de nascimento: 27/10/1992 (21 anos)
+* Telefone: (62) 8166-9629, (62) 3338-1770
 
 
 Objetivo
 --------
 
-Um apaixonado por tecnologia e software livre. Gosto de ajudar, aprender e melhorar o ambiente que eu estou empreendido. A globo.com como empresa que valoriza novas tecnologias e inovações tecnológicaa, tenho o desejo de trabalhar em ambientes assim dinâmicos.
+Um apaixonado por tecnologia e software livre. Gosto de ajudar, aprender e melhorar o ambiente que eu estou empreendido. A Globo.com como empresa que valoriza novas tecnologias e inovações tecnológicas, tenho o desejo de trabalhar em ambientes assim dinâmicos.
 
 
 
