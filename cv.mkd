@@ -1,19 +1,78 @@
-Vaga
-====
+Vagas
+=====
 
-[Preencha aqui a vaga que você pretende]
-
-__Dicas:__
-* Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
+* Área de Jornalismo
+* Plataforma de Comentários
+* Tsuru: Plataforma como serviço
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+Dados de identificação
+----------------------
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável, e provavelmente mais pessoas da Globo.com irão lê-lo.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [IWantToWorkAtGloboCom] (http://github.com/globocom/IWantToWorkAtGloboCom), para ver o cheat-sheet
+Nome: Wilson Pinto Júnior
+Naturalidade: Corumbá de Goiás
+Data de nascimento: 27/10/1992 (21 anos)
+Telefone: (62) 8166-9629, (62) 3338-1770
+
+
+Objetivo
+--------
+
+Um apaixonado por tecnologia e software livre. Gosto de ajudar, aprender e melhorar o ambiente que eu estou empreendido.
+A globo.com como empresa que valoriza novas tecnologias e inovações tecnológicaa, tenho o desejo de trabalhar em ambientes assim dinâmicos.
+
+
+
+Escolaridade
+------------
+
+* MBA em Gerência de projetos - UniEvangélica - 2014 (previsto);
+* Tecnologia em Análise e Desenvolvimento de sistemas - Faculdade Anhanguera de Anápolis - 2012.
+
+Habilidades profissionais
+-------------------------
+
+* Programação
+   * Python (Django, Tastypie, MongoEngine, GTK);
+   * Javascript (NodeJS, jQuery, Backbone.js, Marionette.js, Socket.io);
+   * Java (Android básico);
+   * C (libgtk+, glib2);
+
+* Banco de dados
+  * NoSQL (MongoDB, redis, Memcached);
+  * SQL (PostgreSQL, MySQL);
+
+* Teste de software
+  * Lettuce (sou amigo do autor do projeto: Gabriel Falcão);
+  * Splinter;
+  * Travis-CI, Strider-CD;
+
+* Metodologias de desenvolvimento
+  * Scrum;
+  * Conhecimento em gerenciamento de projetos (PMBOK 5ª Ed, PRINCE2).
+
+* Other stuff
+  * Usuário/Administrador de servidores Debian e Archlinux;
+  * Deploy de aplicações usando Nginx + UWSGI;
+
+
+Experiência profissional
+------------------------
+
+* Empresa: Lethus TI.
+  Cargo: Desenvolvedor/Coordenador de sistemas.
+  Duração: desde abril/2011 até o momento.
+  Local: Home Office em Corumbá de Goiás, escritório em Barra Mansa/RJ.
+
+* Projeto: MongoEngine (https://github.com/MongoEngine/mongoengine/blob/master/AUTHORS).
+  Cargo: Desenvolvedor/Autor.
+  Duração: desde Julho/2011 até o momento.
+
+* Projeto: OpenLanhouse (https://github.com/wpjunior/OpenLanhouse).
+  Cargo: Desenvolvedor/Autor.
+  Duração: de 2007 até 2009.
+
+
+
