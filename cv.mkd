@@ -1,8 +1,8 @@
 Vagas
 =====
 
-* Área de Jornalismo
 * Plataforma de Comentários
+* Área de Jornalismo
 * Tsuru: Plataforma como serviço
 
 CV
